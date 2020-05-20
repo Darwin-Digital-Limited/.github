@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**What we're doing**
+**What we're doing 📃**
 
 -List
 -The
 -Items
 -Here
 
-**Acceptance criteria**
+**Acceptance criteria ☑**
 -List acceptance
 -Criteria
 -Here
