@@ -1,7 +1,7 @@
 ---
 name: New project item
 about: For new project issues
-title: "[EnterPriority] - "
+title: ""
 labels: ''
 assignees: ''
 
