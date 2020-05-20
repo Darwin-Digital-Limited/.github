@@ -1,0 +1,2 @@
+# .gthub
+Default issue templates 
